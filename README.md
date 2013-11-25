@@ -16,4 +16,4 @@ command to download a file:
 	./dnw2 <filename>
 
 ##BUG
-    Please feel free to report it to `ivincentlin@gmail.com`
+    Please feel free to report it to __ivincentlin@gmail.com__
